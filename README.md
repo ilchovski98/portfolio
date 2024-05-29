@@ -12,23 +12,23 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 
 # Contests
 ### November 2023
-- [NextGen](.reports/public/NextGen.md)
+- [NextGen](https://github.com/ilchovski98/portfolio/blob/master/reports/public/NextGen.md)
 
 ### January 2024
-- [reNFT](.reports/public/reNFT.md)
+- [reNFT](https://github.com/ilchovski98/portfolio/blob/master/reports/public/reNFT.md)
 
 ### March 2024
-- [DittoETH](.reports/public/DittoETH.md)
+- [DittoETH](https://github.com/ilchovski98/portfolio/blob/master/reports/public/DittoETH.md)
 
 ### April 2024
-- [Zivoe](.reports/public/Zivoe.md)
-- [Renzo](.reports/public/Renzo.md)
+- [Zivoe](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Zivoe.md)
+- [Renzo](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Renzo.md)
 
 ### May 2024
-- [Gamma](.reports/public/Gamma.md)
-- [Munchables](.reports/public/Munchables.md)
+- [Gamma](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Gamma.md)
+- [Munchables](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Munchables.md)
 
 # Private Audits
 ### May 2024
-- [Paytr Protocol](.reports/private/Paytr-protocol.md)
-- [Arcade.xyz](.reports/private/Arcade.xyz.md)
+- [Paytr Protocol](https://github.com/ilchovski98/portfolio/blob/master/reports/private/Paytr-protocol.md)
+- [Arcade.xyz](https://github.com/ilchovski98/portfolio/blob/master/reports/private/Arcade.xyz.md)
