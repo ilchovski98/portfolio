@@ -25,7 +25,6 @@ If you are a founder or an engineer looking to get your smart contract protocol 
 - [Renzo](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Renzo.md)
 
 ### May 2024
-- [Gamma](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Gamma.md)
 - [Munchables](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Munchables.md)
 
 # Private Audits
