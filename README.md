@@ -15,9 +15,9 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 # 🥇 Achievements 🥇
 
-- **1st** place 🥇 on Thorchain contest
-- **9th** place on Renzo contest
-- **10th** place on DittoETH contest
+- Ranked **1st** 🥇 on [**Thorchain contest**](https://code4rena.com/audits/2024-06-thorchain#top)
+- Ranked **9th** 🏅 on [**Renzo contest**](https://code4rena.com/audits/2024-04-renzo#top)
+- Ranked **10th** 🏅 on [**DittoETH contest**](https://code4rena.com/audits/2024-03-dittoeth#top)
 - Rank **21th🏆** on [Code4rena 90-day leaderboard](https://code4rena.com/@ilchovski) (as of July 2024)
 
 | Total Vulnerabilities Uncovered  | Audits Conducted  | Competitions WON | Ranked TOP10 
