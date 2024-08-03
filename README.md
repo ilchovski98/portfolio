@@ -1,18 +1,17 @@
 # About me
 
-I am an independent security researcher with great attention to detail that loves to break down complexity and offer easy practical solutions. As of date (July 2024) I'm sitting at the **21th** spot on the 90-day [Code4rena leaderboard](https://code4rena.com/@ilchovski), secured multiple DeFi and Cross-Chain protocols and has multiple top 1-10 finishes in competative audits.
+An independent security researcher with great attention to detail that loves to break down complexity and offer easy practical solutions. 
+
+As of date (July 2024) I'm sitting at the **21th** spot on the 90-day [Code4rena leaderboard](https://code4rena.com/@ilchovski), secured multiple DeFi and Cross-Chain protocols and has multiple top 1-10 finishes in competative audits.
 
 With more than 2 years of experience in the blockchain industry I provide value to protocols in the form of smart contract security reviews and consultations regarding security approaches and best practices.
 
-## Table of contents
-
- - [Book an audit](#book-an-audit)
- - [Contests](#contests)
- - [Private Audits](#private-audits)
-
 ## Book an audit
 
-If you are a founder or an engineer looking to get your smart contract protocol audited by top-notch security experts, you can contact me on [Twitter](https://x.com/ilchovski98), [Telegram](https://t.me/ilchovski), or [Discord](https://discordapp.com/users/655489778669846549) to discuss your needs and help you secure your project.
+If you're looking to get your protocol secured and have a reliable partner to guide you in the process, you can reach out at 👇 
+- [Twitter](https://x.com/ilchovski98)
+- [Telegram](https://t.me/ilchovski)
+- [Discord](https://discordapp.com/users/655489778669846549)
 
 ## 🥇 Achievements 🥇
 
