@@ -1,4 +1,8 @@
-# Ilchovski Security - Smart Contract Audits
+# About me
+
+I am an independent security researcher with great attention to detail that loves to break down complexity and offer easy practical solutions. As of date (July 2024) I'm sitting at the **21th** spot on the 90-day [Code4rena leaderboard](https://code4rena.com/@ilchovski), secured multiple DeFi and Cross-Chain protocols and has multiple top 1-10 finishes in competative audits.
+
+With more than 2 years of experience in the blockchain industry I provide value to protocols in the form of smart contract security reviews and consultations regarding security approaches and best practices.
 
 ## Table of contents
 
@@ -8,26 +12,33 @@
 
 ## Book an audit
 
-If you are a founder or an engineer looking to get your smart contract protocol audited by our team of top-notch security experts, you can contact us on [Twitter](https://x.com/ilchovski98), [Telegram](https://t.me/ilchovski), or [Discord](https://discordapp.com/users/655489778669846549) to discuss your needs and help you secure your project.
+If you are a founder or an engineer looking to get your smart contract protocol audited by top-notch security experts, you can contact me on [Twitter](https://x.com/ilchovski98), [Telegram](https://t.me/ilchovski), or [Discord](https://discordapp.com/users/655489778669846549) to discuss your needs and help you secure your project.
 
-# Contests
-### November 2023
-- [NextGen](https://github.com/ilchovski98/portfolio/blob/master/reports/public/NextGen.md)
+## 🥇 Achievements 🥇
 
-### January 2024
-- [reNFT](https://github.com/ilchovski98/portfolio/blob/master/reports/public/reNFT.md)
+- **1st** place 🥇 on Thorchain contest
+- Rank **21th🏆** on Code4Rena 90-day leaderboard (as of July 2024)
+- **9th** place on Renzo contest
+- **10th** place on DittoETH contest
 
-### March 2024
-- [DittoETH](https://github.com/ilchovski98/portfolio/blob/master/reports/public/DittoETH.md)
+| Total Vulnerabilities Uncovered  | Audits Conducted  | Competitions WON | Ranked TOP10 
+| :------------ | :------------| :------------ | :------------ |
+|**12 High** **16 Medium** |**9** | **1** |**3**|
 
-### April 2024
-- [Zivoe](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Zivoe.md)
-- [Renzo](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Renzo.md)
+## Achievements in Audit Contests
 
-### May 2024
-- [Munchables](https://github.com/ilchovski98/portfolio/blob/master/reports/public/Munchables.md)
+| Protocol                                                                  | Platform  | Type of protocol              | Findings| Date | My report|Info                                                                                     |
+| :----------------------------------------------------------------------- | :-------- | :---------------------------- | :------------------------- |--- |:--------------------------------------------------------------------------------------------- |-------------------------| 
+| [NextGen](https://code4rena.com/audits/2023-10-nextgen#top)  | Code4rena  | NFT              | 1H  | 11.2023             | [Open](./audits/contests/Code4rena/NextGen.md)| 
+| [reNFT](https://code4rena.com/audits/2024-01-renft#top)  | Code4rena  | NFT, Lending              | 3M  | 01.2024            | [Open](./audits/contests/Code4rena/reNFT_.md) |
+| [DittoETH](https://code4rena.com/audits/2024-03-dittoeth#top)  | Code4rena  | Stablecoin, Order book              | 1H 1M  | 03.2024             | [Open](./audits/contests/Code4rena/DittoETH.md)| Ranked **Top 10** ⭐️
+| [Zivoe](https://audits.sherlock.xyz/contests/280)  | Sherlock  | RWA Credit              | 2H 2M  | 04.2024             | [Open](./audits/contests/Sherlock/Zivoe.md)| 
+| [Renzo](https://code4rena.com/audits/2024-04-renzo#top)  | Code4rena  | Upgradeability, Staking, EigenLayer  | 4H 4M  | 05.2024            | [Open](./audits/contests/Code4rena/Renzo.md) | Ranked **9th** ⭐️
+| [Munchables](https://code4rena.com/audits/2024-05-munchables#top)  | Code4rena  | Game, Staking  | 1H  | 05.2024            | [Open](./audits/contests/Code4rena/Munchables.md) | 
+| [Thorchain](https://code4rena.com/audits/2024-06-thorchain#top)  | Code4rena  | DEX  | 2H 1M  | 06.2024            | Coming Soon | Ranked **1st** 🥇
+| [Size](https://code4rena.com/audits/2024-06-size#top)  | Code4rena  | Lending, Order book  | 1H 3M  | 07.2024            | Coming Soon |
 
 # Private Audits
-### May 2024
-- [Paytr Protocol](https://github.com/ilchovski98/portfolio/blob/master/reports/private/Paytr-protocol.md)
-- [Arcade.xyz](https://github.com/ilchovski98/portfolio/blob/master/reports/private/Arcade.xyz.md)
+| Protocol                                                                    | Type of protocol              | Findings| Date | Report
+| :----------------------------------------------------------------------- | :---------------------------- | :------------------------- |--- |:---------------------------------------------------------------------------------------------
+| Paytr Protocol   | Payments              | 3M  | 05.2024             | [Open](./audits/private/Paytr-protocol.md)
