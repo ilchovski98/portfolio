@@ -20,7 +20,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - Ranked **10th** 🏅 on [**DittoETH contest**](https://code4rena.com/audits/2024-03-dittoeth#top)
 - Rank **21th🏆** on [Code4rena 90-day leaderboard](https://code4rena.com/@ilchovski) (as of July 2024)
 
-| Total Vulnerabilities Uncovered  | Audits Conducted  | Competitions WON | Ranked TOP10 
+| Total Vulnerabilities Uncovered  | Audits Conducted  | Competitions WON | Ranked TOP 10 
 | :------------ | :------------| :------------ | :------------ |
 |**12 High** **16 Medium** |**9** | **1** |**3**|
 
