@@ -1,7 +1,7 @@
 # Introduction
 Public contest organised by Sherlock.
 
-Participated as Team Maniacs.
+Participated as Team Maniacs. (All findings in this report were found by Ilchovski)
 
 Find contest details: [`here`](https://audits.sherlock.xyz/contests/280).
 

@@ -1,7 +1,7 @@
 # Introduction
 Public contest organised by Code4rena.
 
-[`Ilchovski`](https://x.com/ilchovski98) participated as a solo auditor for this contents (was not part of a team).
+[`Ilchovski`](https://x.com/ilchovski98) participated as a solo auditor for this contest (was not part of a team).
 
 Find contest details: [`here`](https://code4rena.com/audits/2024-04-renzo#top).
 

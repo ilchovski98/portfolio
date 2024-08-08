@@ -35,7 +35,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Renzo](https://code4rena.com/audits/2024-04-renzo#top)  | Code4rena  | Upgradeability, Staking, EigenLayer  | 4H 4M  | 05.2024            | [Open](./audits/contests/Renzo.md) | Ranked **9th** ⭐️
 | [Munchables](https://code4rena.com/audits/2024-05-munchables#top)  | Code4rena  | Game, Staking  | 1H  | 05.2024            | [Open](./audits/contests/Munchables.md) | 
 | [Thorchain](https://code4rena.com/audits/2024-06-thorchain#top)  | Code4rena  | DEX  | 2H 1M  | 06.2024            | [Open](./audits/contests/Thorchain.md) | Ranked **1st** 🥇
-| [Size](https://code4rena.com/audits/2024-06-size#top)  | Code4rena  | Lending, Order book  | 1H 3M  | 07.2024            | Coming Soon |
+| [Size](https://code4rena.com/audits/2024-06-size#top)  | Code4rena  | Lending, Order book  | 1H 3M  | 07.2024            | [Open](./audits/contests/Size.md) |
 
 # Private Audits 🛡️
 | Protocol                                                                    | Type of protocol              | Findings| Date | Report

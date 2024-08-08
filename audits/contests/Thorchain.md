@@ -1,3 +1,28 @@
+# Introduction
+Public contest organised by Code4rena.
+
+[`Ilchovski`](https://x.com/ilchovski98) participated as a solo auditor for this contest (was not part of a team).
+
+Find contest details: [`here`](https://code4rena.com/audits/2024-06-thorchain#top).
+
+# About Thorchain
+
+One of the largest DEXs in crypto, handling $100 million+ in daily volume and supporting Bitcoin, Ethereum, Cosmoshub, and various UTXO & EVM chains.
+
+# Risk Classification
+
+The risk classification for this audit were according to the platform's rules at the time of the audit. Only **High** and **Medium** severity findings were in scope.
+
+# Findings Summary
+
+| ID     | Title                                                              | Severity |
+| ------ | ------------------------------------------------------------------ | -------- |
+| [H-01] | Rebasing tokens are not handled correctly      | High   |
+| [H-02] | Refund functionality breaks protocol logic  | High   |
+| [M-01] | Using msg.value inside a loop breaks function functionality | Medium   |
+
+# Findings
+
 # [HIGH-01] Rebasing tokens are not handled correctly
 
 ## Submission Link
