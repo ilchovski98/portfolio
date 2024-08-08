@@ -22,7 +22,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 | Total Vulnerabilities Uncovered  | Audits Conducted  | Competitions WON | Ranked TOP 10 
 | :------------ | :------------| :------------ | :------------ |
-|**12 High** **16 Medium** |**9** | **1** |**3**|
+|**12 High** **17 Medium** |**9** | **1** |**3**|
 
 # Achievements in Audit Contests 🏁
 
