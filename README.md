@@ -29,7 +29,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | Protocol                                                                  | Platform  | Type of protocol              | Findings| Date | My report|Info                                                                                     |
 | :----------------------------------------------------------------------- | :-------- | :---------------------------- | :------------------------- |--- |:--------------------------------------------------------------------------------------------- |-------------------------| 
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top)  | Code4rena  | NFT              | 1H  | 11.2023             | [Open](./audits/contests/NextGen.md)| 
-| [reNFT](https://code4rena.com/audits/2024-01-renft#top)  | Code4rena  | NFT, Lending              | 3M  | 01.2024            | [Open](./audits/contests/reNFT_.md) |
+| [reNFT](https://code4rena.com/audits/2024-01-renft#top)  | Code4rena  | NFT, Lending              | 3M  | 01.2024            | [Open](./audits/contests/reNFT.md) |
 | [DittoETH](https://code4rena.com/audits/2024-03-dittoeth#top)  | Code4rena  | Stablecoin, Order book              | 1H 1M  | 03.2024             | [Open](./audits/contests/DittoETH.md)| Ranked **Top 10** ⭐️
 | [Zivoe](https://audits.sherlock.xyz/contests/280)  | Sherlock  | RWA Credit              | 2H 2M  | 04.2024             | [Open](./audits/contests/Zivoe.md)| 
 | [Renzo](https://code4rena.com/audits/2024-04-renzo#top)  | Code4rena  | Upgradeability, Staking, EigenLayer  | 4H 4M  | 05.2024            | [Open](./audits/contests/Renzo.md) | Ranked **9th** ⭐️
