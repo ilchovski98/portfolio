@@ -20,7 +20,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 4. In progress
 
 # Testimonials 🏆
-**Arcade.xyz's dev - PowVT**: "If anyone is looking for an audit, I have worked with members of this team in the past and they are great. Great team and great prices."
+**Arcade.xyz - PowVT**: "If anyone is looking for an audit, I have worked with members of this team in the past and they are great. Great team and great prices."
 
 # 🥇 Audit Contests Achievements 🥇
 
