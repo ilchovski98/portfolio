@@ -32,8 +32,8 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | Protocol                                                                 | Type of protocol              | Findings| Date | My report                                                                                     |
 | :----------------------------------------------------------------------- | :---------------------------- | :------------------------- |--- |:--------------------------------------------------------------------------------------------- |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top)  | NFT              | 1H  | 11.2023             | [Open](./audits/contests/NextGen.md) |
- [reNFT](https://code4rena.com/audits/2024-01-renft#top)   | NFT, Lending              | 3M  | 01.2024            | [Open](./audits/contests/reNFT.md)| 
-| [ittoETH](https://code4rena.com/audits/2024-03-dittoeth#top)   | Stablecoin, Order book              | 1H 1M  | 03.2024             | [Open](./audits/contests/DittoETH.md)|
+| [reNFT](https://code4rena.com/audits/2024-01-renft#top)   | NFT, Lending              | 3M  | 01.2024            | [Open](./audits/contests/reNFT.md)| 
+| [DittoETH](https://code4rena.com/audits/2024-03-dittoeth#top)   | Stablecoin, Order book              | 1H 1M  | 03.2024             | [Open](./audits/contests/DittoETH.md)|
 | [Zivoe](https://audits.sherlock.xyz/contests/280)   | RWA Credit              | 2H 2M  | 04.2024             | [Open](./audits/contests/Zivoe.md)|
 | [Renzo](https://code4rena.com/audits/2024-04-renzo#top)   | Upgradeability, Staking, EigenLayer  | 4H 4M  | 05.2024            | [Open](./audits/contests/Renzo.md) |
 | [Munchables](https://code4rena.com/audits/2024-05-munchables#top)   | Game, Staking  | 1H  | 05.2024            | [Open](./audits/contests/Munchables.md) |
