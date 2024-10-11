@@ -26,7 +26,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 - Rank **21th🏆** on [Code4rena 90-day leaderboard](https://code4rena.com/@ilchovski) (as of July 2024)
 
 | Protocol                                                                 | Type of protocol              | Findings| Date | My report                                                                                     |
-| :----------------------------------------------------------------------- | :---------------------------- | :------------------------- |--- |:--------------------------------------------------------------------------------------------- |-------------------------| 
+| :----------------------------------------------------------------------- | :---------------------------- | :------------------------- |--- |:--------------------------------------------------------------------------------------------- |
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top)  | NFT              | 1H  | 11.2023             | [Open](./audits/contests/NextGen.md) |
  [reNFT](https://code4rena.com/audits/2024-01-renft#top)   | NFT, Lending              | 3M  | 01.2024            | [Open](./audits/contests/reNFT.md)| 
 | [ittoETH](https://code4rena.com/audits/2024-03-dittoeth#top)   | Stablecoin, Order book              | 1H 1M  | 03.2024             | [Open](./audits/contests/DittoETH.md)|
