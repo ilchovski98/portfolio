@@ -19,6 +19,9 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 3. [Hypercycle](./audits/private/Hypercycle.xyz.md)
 4. In progress
 
+# Testimonials 🏆
+**Arcade.xyz's dev - PowVT**: "If anyone is looking for an audit, I have worked with members of this team in the past and they are great. Great team and great prices."
+
 # 🥇 Audit Contests Achievements 🥇
 
 - Ranked **1st** 🥇 on [**Thorchain contest**](https://code4rena.com/audits/2024-06-thorchain#top)
