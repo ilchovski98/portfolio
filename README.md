@@ -16,7 +16,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 # Private Audits 🛡️
 1. [Paytr Protocol](./audits/private/Paytr-protocol.md)
 2. [Arcade.xyz](./audits/private/Arcade.xyz.md)
-3. [Hypercycle](./audits/private/Hypercycle.xyz.md)
+3. [Hypercycle](./audits/private/HyperCycle-Share-Manager-v2.pdf)
 4. In progress
 
 # Testimonials 🏆
@@ -38,5 +38,6 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | [Renzo](https://code4rena.com/audits/2024-04-renzo#top)   | Upgradeability, Staking, EigenLayer  | 4H 4M  | 05.2024            | [Open](./audits/contests/Renzo.md) |
 | [Munchables](https://code4rena.com/audits/2024-05-munchables#top)   | Game, Staking  | 1H  | 05.2024            | [Open](./audits/contests/Munchables.md) |
 | [Thorchain](https://code4rena.com/audits/2024-06-thorchain#top)   | DEX  | 2H 1M  | 06.2024            | [Open](./audits/contests/Thorchain.md) |
-| [Size](https://code4rena.com/audits/2024-06-size#top)   | Lending, Order book  | 1H 3M  | 07.2024            | [Open](./audits/contests/Size.md)|
-| [Zaros Part 1](https://code4rena.com/audits/2024-06-size#top)  | Perpetuals DEX  | 1H 3M  | 07.2024            | [Open](./audits/contests/Zaros-part-1.md) |
+| [Size](https://code4rena.com/audits/2024-06-size#top)   | Lending, Order book  | 1H 3M  | 06.2024            | [Open](./audits/contests/Size.md)|
+| [Zaros Part 1](https://code4rena.com/audits/2024-06-size#top)  | Perpetuals DEX  | 1H 4M 5L  | 07.2024            | [Open](./audits/contests/Zaros-part-1.md) |
+| [TraitForge](https://code4rena.com/audits/2024-06-size#top)  | NFT Game  | 4H 2M  | 07.2024            | [Open](./audits/contests/TraitForge.md) |

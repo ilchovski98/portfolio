@@ -1,12 +1,11 @@
 # Introduction
-
 A time-boxed security review of the **Paytr** protocol was done by **ilchovski**, with a focus on the security aspects of the application's implementation.
 
 # About Ilchovski
-Nikola Ilchovski (Ilchovski), an independent researcher specializing in smart contract security, has demonstrated a track record of identifying and addressing vulnerabilities across various protocols. He conducts security research and reviews while leveraging his prior experience as a blockchain developer.
+Ilchovski is an independent security researcher specializing in smart contract security. He has demonstrated a track record of identifying and addressing vulnerabilities across various Defi protocols. He conducts security research and reviews while leveraging his prior experience as a blockchain developer.
 
 # Disclaimer
-Security reviews are a time-boxed service that has the aim of finding as many issues as possible. However, the absence of vulnerabilities cannot be guaranteed. It is recommended further security reviews to be made, to set up a bug bounty program and to have an emergency response team if possible.
+Security reviews are a time-boxed service that has the aim of finding as many issues as possible. The absence of vulnerabilities cannot be guaranteed. It is recommended further security reviews to be made, to set up a bug bounty program and to have an emergency response team if possible.
 
 # Risk Classification
 
@@ -24,6 +23,7 @@ Security reviews are a time-boxed service that has the aim of finding as many is
 
 # Security Assessment Summary
 
+**Audit Duration:** 12.05.2024 - 13.05.2024<br>
 **_review commit hash_ - [5fd4d6585ab511be0619d493291711b0a06c4a18](https://github.com/paytr-protocol/contracts/tree/5fd4d6585ab511be0619d493291711b0a06c4a18)**
 
 ## Scope
@@ -46,8 +46,6 @@ Security reviews are a time-boxed service that has the aim of finding as many is
 | [I-08] | Not following the solidity style guide                              | Informational |
 
 # Detailed Findings
-
-## Medium Findings
 
 ## [M-01] An attacker can cause a denial of service to invoice creation
 ### Context
@@ -168,8 +166,6 @@ There isn't a withdraw or a receive function either which means that this ETH wi
 ### Recommendations
 
 Remove the payable modifier from all methods listed in the context above.
-
-## Informational Findings
 
 ## [I-01] Code duplication
 ### Context
