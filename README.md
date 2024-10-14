@@ -18,6 +18,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 2. [Arcade.xyz](./audits/private/Arcade.xyz.md)
 3. [Hypercycle](./audits/private/HyperCycle-Share-Manager-v2.pdf)
 4. In progress
+5. In progress
 
 # Testimonials 🏆
 **Arcade.xyz - PowVT**: "If anyone is looking for an audit, I have worked with members of this team in the past and they are great. Great team and great prices."
