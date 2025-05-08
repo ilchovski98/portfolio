@@ -2,9 +2,9 @@
 
 An independent security researcher with great attention to detail that loves to break down complexity and offer easy practical solutions. 
 
-Currently a Lead Security Researcher at Paladin Blockchain Security.
+Currently a **Lead Security Researcher** at Paladin Blockchain Security.
 
-Secured 40+ Defi/Cross-Chain protocols and has multiple top 1-10 finishes in competitive audits.
+**Secured 40+ Defi/Cross-Chain protocols** and has multiple top 1-10 finishes in competitive audits.
 
 With more than 3 years of experience in the blockchain industry I provide value to protocols in the form of smart contract security reviews and consultations. 
 
