@@ -46,14 +46,14 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 
 # 🏆 Testimonials & Wins 🏆
 <div style="max-width: 600px; margin: 0 auto 0 0; display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <img src="./audits/contests/media/Owen-Guardian.png" alt="" style="flex: 1 1 calc(50% - 15px); max-width: calc(50% - 15px);">
-  <img src="./audits/contests/media/Arcade.xyz-PowVT-dev.png" alt="" style="flex: 1 1 calc(50% - 15px); max-width: calc(50% - 15px);">
+  <img src="./audits/contests/media/Owen-Guardian.png" alt="" width="270px" style="flex: 1 1 calc(50% - 15px); max-width: calc(50% - 15px);">
+  <img src="./audits/contests/media/Arcade.xyz-PowVT-dev.png" alt="" width="270px" style="flex: 1 1 calc(50% - 15px); max-width: calc(50% - 15px);">
 </div>
 
 <div style="max-width: 600px; margin: 40px auto 40px 0; display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="./audits/contests/media/thorchain.png" alt="" style="flex: 1 1 calc(33% - 15px); max-width: calc(33% - 15px);">
-  <img src="./audits/contests/media/Liquid-Ron.png" alt="" style="flex: 1 1 calc(33% - 15px); max-width: calc(33% - 15px);">
-  <img src="./audits/contests/media/Liquid-Ron-Mitigation.png" alt="" style="flex: 1 1 calc(33% - 15px); max-width: calc(33% - 15px);">
+  <img src="./audits/contests/media/thorchain.png" alt="" width="270px" style="flex: 1 1 calc(33% - 15px); max-width: calc(33% - 15px);">
+  <img src="./audits/contests/media/Liquid-Ron.png" alt="" width="270px" style="flex: 1 1 calc(33% - 15px); max-width: calc(33% - 15px);">
+  <img src="./audits/contests/media/Liquid-Ron-Mitigation.png" width="270px" alt="" style="flex: 1 1 calc(33% - 15px); max-width: calc(33% - 15px);">
 </div>
 
 
