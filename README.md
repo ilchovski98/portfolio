@@ -23,7 +23,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | LayerZero Aptos ULN301 Extension   | - | Aptos Move, LayerZero              |  May 2025            | | 
 | LayerZero OneSig Extension | - | Merkle Tree              | April 2025             |  |
 | LayerZero Aptos ULN301   | - | Aptos Move, LayerZero              |  April 2025            | | 
-| LayerZero HyperEVM   | - | LayerZero, HyperEVM  | April 2025             | |
+| LayerZero HyperEVM   | [PDF](./reports/HyperLiquid-Composer-Security-Review.pdf) | LayerZero, HyperEVM  | April 2025             | |
 | SingularityDAO DynaRouter  | Soon |    BalancerV2        |  March 2025             | |
 | SingularityDAO DynaLiquidity   | Soon | BalancerV2  |  March 2025            |  |
 | LayerZero OneSig   | - | Merkle Tree  |  March 2025            |  |
