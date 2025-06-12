@@ -19,6 +19,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 # 🛡️ Private Audits 🛡️
 | Client                                                                 | Report | Type              | Date |
 | :----------------------------------------------------------------------- | :---------------------------- | --- | --- |
+| DragonSwap   | In Progress | Staking, Airdrop              |  June 2025            | | 
 | Chainport   | Soon | Cross-Chain Bridge, UniV2/UniV3              |  May 2025            | | 
 | LayerZero Aptos ULN301 Extension   | - | Aptos Move, LayerZero              |  May 2025            | | 
 | LayerZero OneSig Extension | - | Merkle Tree              | April 2025             |  |
@@ -27,7 +28,7 @@ If you're looking to get your protocol secured and have a reliable partner to gu
 | SingularityDAO DynaRouter  | Soon |    BalancerV2        |  March 2025             | |
 | SingularityDAO DynaLiquidity   | Soon | BalancerV2  |  March 2025            |  |
 | LayerZero OneSig   | - | Merkle Tree  |  March 2025            |  |
-| Gamma Strategies   | Soon | UniV4, Limit orders  |  March 2025            |  |
+| Gamma Strategies   | [PDF](./reports/Gamma-Security-Review.pdf) | UniV4, Limit orders  |  March 2025            |  |
 | Dragonswap   | Soon | Lending, Order book  |  February 2025            | |
 | Beraji-KO  | [PDF](./reports/Beraji-KO-Security-Review.pdf)| Staking  |  February 2025            |  |
 | Yuga Labs  | [PDF](./reports/YugaLabs-Security-Review.pdf)| LayerZero, NFT  |  February 2025            |  |
